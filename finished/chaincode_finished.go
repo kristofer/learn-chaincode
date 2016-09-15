@@ -14,10 +14,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-/*
-export CORE_PEER_ADDRESS=8b6c631b-34fa-41f6-8e1c-16d26223408d_ca.us.blockchain.ibm.com:30303  
-export CORE_CHAINCODE_ID_NAME=72c3c395707be7da6e26841bb9475ec96ac06687cdf5ea55796202801e658d0bafe257109ec7eebd1814ca5c76b8be5f03d3233b704fd297e8fcb81dbab7305e
-*/
 
 
 
